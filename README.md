@@ -1,14 +1,12 @@
 # [Kly_Men_COmpany][]/[Spyro][]/[yaspyrot][]/
 
-The project is stored in `yaspyrot.dpr`.
+The project is stored in [project/yaspyrot.dpr](./project/yaspyrot.dpr).
 
 ## Download:
 
 - [v1.7](http://klimaleksus.narod.ru/Files/4/yaspyrot1V7.rar) _(48.6 Kb)_
 
-## Releases:
-
-(All archives contain source code too)
+## Old releases:
 
 - [v1.6](http://klimaleksus.narod.ru/Files/4/yaspyrot1V6.rar) _(48.7 Kb)_
 - [v1.5](http://klimaleksus.narod.ru/Files/4/yaspyrot1V5.rar) _(48.6 Kb)_
