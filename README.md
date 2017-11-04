@@ -1,4 +1,4 @@
-# [Kly_Men_COmpany][]/[Spyro][]/[yaspyrot][]/
+﻿# [Kly_Men_COmpany](https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany")/[Spyro](https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Spyro "Kly_Men_COmpany/Spyro/")/[yaspyrot](https://github.com/aleksusklim/yaspyrot "Kly_Men_COmpany/Spyro/yaspyrot/")/
 
 The project is stored in [project/yaspyrot.dpr](./project/yaspyrot.dpr).
 
@@ -18,8 +18,5 @@ The project is stored in [project/yaspyrot.dpr](./project/yaspyrot.dpr).
 
 ---
 
-_[Back][Spyro]_
-
-[Kly_Men_COmpany]: https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany"
-[Spyro]: https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Spyro/ "Kly_Men_COmpany/Spyro/"
-[yaspyrot]: https://github.com/aleksusklim/yaspyrot/ "Kly_Men_COmpany/Spyro/yaspyrot/"
+_[Back](https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Spyro "Kly_Men_COmpany/Spyro/")_
+_[Home](https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany")_
